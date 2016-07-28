@@ -36,7 +36,7 @@ $(document).ready(function() {
                        
             case "3":
                         
-                $('#tpixStart1').addClass('hidePixDivs');
+                $('#pixStart1').addClass('hidePixDivs');
                 $('#waitingRoom1').removeClass('hidePixDivs');
                 $('#mainEntrance1').addClass('hidePixDivs');
                 $('#aerialView1').addClass('hidePixDivs');
